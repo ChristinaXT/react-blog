@@ -1,10 +1,10 @@
 import React from "react";
 
-import createNewPost from './Components/createNewPost'
+import CreateNewPost from './Components/CreateNewPost'
 const App = ( ) => {
   return (
     <div>
-      < createNewPost />
+      < CreateNewPost />
     </div>
   );
 };
